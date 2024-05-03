@@ -28,7 +28,7 @@ public class contador {
 
 		int contagem = parametroDois - parametroUm;
 		for(int i= 1 ; i <= contagem; i++){
-            System.out.println("imprimindo o numero"+i);
+            System.out.println("imprimindo a diferença "+i);
         }
 	}
     
